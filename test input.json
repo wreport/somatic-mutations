@@ -1,0 +1,7 @@
+{
+  "atropos_illumina_trim.reads_1": "/pipelines/whales/graywhale/GWkidneymother_S1_L001_R1_001.fastq.gz",
+  "atropos_illumina_trim.reads_2": "/pipelines/whales/graywhale/GWkidneymother_S1_L001_R2_001.fastq.gz",
+  "atropos_illumina_trim.threads": 8,
+  "atropos_illumina_trim.adapter_1": "TACACTCTTTCCCTACACGACGCTCTTCCGATCT",
+  "atropos_illumina_trim.adapter_2": "GTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT",
+}
