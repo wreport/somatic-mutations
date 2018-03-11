@@ -1,0 +1,5 @@
+{
+  "samtools_workflow.bam": "/pipelines/results/sommut/samtools/aln.bam",
+  "samtools_workflow.reference": "/pipelines/indexes/HUMAN/27/GRCh38.p10.genome.fa",
+  "samtools_workflow.results_folder": "/pipelines/results/sommut/mutect"
+}

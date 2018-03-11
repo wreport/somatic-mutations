@@ -1,0 +1,4 @@
+{
+  "samtools_workflow.sam": "/pipelines/cromwell/cromwell-executions/minimap2_workflow/d1cc7120-f12a-4441-b511-7171a55069bc/call-minimap2_call/execution/aln.sam",
+  "samtools_workflow.results_folder": "/pipelines/results/sommut/samtools"
+}
