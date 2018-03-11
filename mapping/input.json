@@ -1,5 +1,0 @@
-{
-  "minimap2_assembly.reads_1": "/pipelines/epigenetics-lab/ftp.therabio.kr/TBO170635_20180130/01_fastq_file/AndreyFastAndreyLong/AndreyFastAndreyLong_R1.fastq.gz",
-  "minimap2_assembly.reads_2": "/pipelines/epigenetics-lab/ftp.therabio.kr/TBO170635_20180130/01_fastq_file/AndreyFastAndreyLong/AndreyFastAndreyLong_R2.fastq.gz",
-  "minimap2_assembly.reference": "/pipelines/indexes/HUMAN/27/CGRCh38.p10.genome.fa"
-}
