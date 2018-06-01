@@ -1,0 +1,4 @@
+{
+  "picval_workflow.bam": "/pipelines/results/sommut/picard/aln2.bam",
+  "picval_workflow.results_folder": "/pipelines/results/sommut/picard"
+}

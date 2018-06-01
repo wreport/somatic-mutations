@@ -1,0 +1,8 @@
+{
+  "atropos_illumina_trim_workflow.reads_1": "/pipelines/epigenetics-lab/ftp.therabio.kr/TBO170635_20180130/01_fastq_file/AndreyFastAndreyLong/AndreyFastAndreyLong_R1.fastq.gz",
+  "atropos_illumina_trim_workflow.reads_2": "/pipelines/epigenetics-lab/ftp.therabio.kr/TBO170635_20180130/01_fastq_file/AndreyFastAndreyLong/AndreyFastAndreyLong_R2.fastq.gz",
+  "atropos_illumina_trim_workflow.threads": 8,
+  "atropos_illumina_trim_workflow.adapter_1": "AGATCGGAAGAGCACACGTCTGAACTCCAGTCAC",
+  "atropos_illumina_trim_workflow.adapter_2": "AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGTAGATCTCGGTGGTCGCCGTATCATT",
+  "atropos_illumina_trim_workflow.results_folder": "/pipelines/results/sommut/resultsqc"
+}

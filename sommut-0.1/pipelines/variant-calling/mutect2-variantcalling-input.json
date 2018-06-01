@@ -1,0 +1,8 @@
+{
+  "mutect2_workflow.bam": "/pipelines/results/sommut/picard/aln2.bam",
+  "mutect2_workflow.bai": "/pipelines/results/sommut/picard/aln2.bam.bai",
+  "mutect2_workflow.reference": "/pipelines/indexes/HUMAN/27/GRCh38.p10.genome.fa",
+  "mutect2_workflow.referencefai": "/pipelines/indexes/HUMAN/27/GRCh38.p10.genome.fa.fai",
+  "mutect2_workflow.referencedict": "/pipelines/indexes/HUMAN/27/GRCh38.p10.genome.dict",
+  "mutect2_workflow.results_folder": "/pipelines/results/sommut/mutect"
+}

@@ -1,0 +1,4 @@
+{
+  "picsam_workflow.reference": "/pipelines/indexes/HUMAN/27/GRCh38.p10.genome.fa",
+  "picsam_workflow.results_folder": "pipelines/indexes/HUMAN/27"
+}
